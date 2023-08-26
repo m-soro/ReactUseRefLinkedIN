@@ -1,6 +1,6 @@
 # React useRef
 
-```
+```jsx
 /**
  * -------
  * USEREF
@@ -43,5 +43,4 @@ function App() {
 }
 
 export default App;
-
 ```
