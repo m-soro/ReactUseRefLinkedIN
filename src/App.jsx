@@ -14,7 +14,7 @@ import { useRef } from "react";
 function App() {
   const colorText = useRef();
   const hexColor = useRef();
-  // console.log(colorText); // returns an object that has a current field
+  console.log(colorText); // returns an object that has a current field
 
   const submit = (event) => {
     event.preventDefault();
